@@ -15,7 +15,13 @@ namespace Lab_Tutorial_3
             //Lab_Tutorial_3.class3._pro3Main(args);
             //Lab_Tutorial_3.TestProduct.Main(args);
             //Lab_Tutorial_3.TestLine.Main();
-            Lab_Tutorial_3.TestStudent.Main(args);
+            //Lab_Tutorial_3.TestStudent.Main(args);
+            //Lab_Tutorial_3.P11.Main(args);
+            //Lab_Tutorial_3._12._12Main();
+            //Lab_Tutorial_3._13._13Main();
+            //Lab_Tutorial_3._14._14Main();
+            //Lab_Tutorial_3._15._15Main();
+            Lab_Tutorial_3._16._16Main();
         }
     }
 }

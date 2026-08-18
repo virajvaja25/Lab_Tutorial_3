@@ -32,7 +32,7 @@ namespace Lab_Tutorial_3
 
     class TestStudent8
     {
-        static void Main(string[] args)
+        public static void _8Main(string[] args)
         {
             // Accept student details
             Console.Write("Enter Enrolment No: ");

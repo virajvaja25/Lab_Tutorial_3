@@ -28,7 +28,7 @@ namespace Lab_Tutorial_3
 
     class TestLine
     {
-        static void Main(string[] args)
+        public static void _6Main(string[] args)
         {
             // Create object
             Line line = new Line();

@@ -62,7 +62,7 @@ namespace Lab_Tutorial_3
 
     class TestStudent
     {
-        public static void Main(string[] args)
+        public static void _7Main(string[] args)
         {
             // Creating object using parameterized constructor
             Student s1 = new Student(101, "Viraj");

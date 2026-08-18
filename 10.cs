@@ -40,7 +40,7 @@ namespace Lab_Tutorial_3
 
     class TestEmployee
     {
-        static void Main()
+        public static void _10Main()
         {
             Console.WriteLine("Enter Employee ID: ");
             int id = Convert.ToInt32(Console.ReadLine());

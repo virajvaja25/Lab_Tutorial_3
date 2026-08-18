@@ -53,7 +53,7 @@ namespace Lab_Tutorial_3
 
     class TestClock
     {
-        static void Main(string[] args)
+        public static void _9Main(string[] args)
         {
             clock c = new clock(23, 59, 58);
             c.Display();
